@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science and Machine Learning<br>🌱 I’m currently learning Computer Vision <br>💬 Ask me about data science workflows, model training, and Python libraries like Pandas or Scikit-learn<br>
+🔭 I’m currently working on Data Science and Machine Learning<br>🌱 I’m currently learning C++ <br>💬 Ask me about data science workflows, model training, and Python libraries like Pandas or Scikit-learn<br>
 
 
 ## 🌐 Socials:
